@@ -44,5 +44,5 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=merko&show_owner=true&description_lines_count=3"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
 </a>
