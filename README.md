@@ -47,4 +47,5 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
 </a>
