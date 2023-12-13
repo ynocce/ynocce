@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/ynocce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_color=007a00&title_color=007a00&text_color=ffffff&icon_color=007a00&locale=pt-br&rank-text="github-rank-icon"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&border_color=007a00&title_color=007a00&text_color=ffffff&icon_color=007a00&locale=pt-br&rank_icon=percentile"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynocce&layout=compact&langs_count=16&theme=blue-green&border_color=007a00&text_color=ffffff&title_color=007a00&locale=pt-br"/>
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ynocce&theme=github-dark&date_format=j%20M%5B%20Y%5D&mode=weekly&border=007a00&ring=007a00&locale=pt_BR"/>
 </div>
@@ -43,3 +43,4 @@
 
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
