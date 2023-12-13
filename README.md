@@ -38,8 +38,6 @@
   <a href = "mailto:ygorleonardo59@outlook.com"><img width= "150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
 </div>
 
-##
-
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
