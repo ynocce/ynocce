@@ -40,3 +40,5 @@
 
 
 ##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1)](https://github.com/anuraghazra/Az-DevOps-Projeto-1)
