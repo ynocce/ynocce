@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/ynocce">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=chartreuse-dark&mode=weekly" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ynocce&theme=chartreuse-dark&mode=weekly" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynocce&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
