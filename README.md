@@ -1,9 +1,5 @@
 ### Hi there 👋
-### I'm Lucas and this is my projects repository
-
-- 🔭 I’m currently working as a cloud analyst on GCP, planning architecture and deployment on the cloud environment
-- 🌱 I’m currently learning devops tools, cloud plataforms, and backend languages
-- ⚡ Fun fact: I am trained as a chemistry technician
+### I'm Ygor and this is my projects repository
 
 <div align="center">
   <a href="https://github.com/Luck1080p">
@@ -35,21 +31,3 @@
 </div>
    
 ##
-
-![Snake animation](https://github.com/Luck1080p/Luck1080p/blob/output/github-contribution-grid-snake.svg) 
-
-
-<!--
-**Luck1080p/Luck1080p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
