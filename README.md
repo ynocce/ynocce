@@ -17,7 +17,7 @@
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="azure" height="30" width="40" src="![image](https://github.com/ynocce/ynocce/assets/151590883/266ae25c-3fe1-4e16-90ce-7cb6e97a293d)
+  <img align="center" alt="azure" height="30" width="40" src="imagens_tecnologias/aws1.png">
 ">
 ">
 </div>
