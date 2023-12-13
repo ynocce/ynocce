@@ -44,7 +44,7 @@
 
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
+    <img align="center" src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
