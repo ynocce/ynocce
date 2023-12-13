@@ -32,7 +32,7 @@
     <img align="center" alt="AzDevOps" width="650" src=imagens_tecnologias/devops-process.png>
 </div>
 
-##
+#
 
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
