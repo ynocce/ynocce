@@ -16,13 +16,13 @@
     <img align="center" alt="AzDevOps" width="50" src=imagens_tecnologias/AzDevOps.png>
     <img align="center" alt="git" width="50" src=imagens_tecnologias/Git.png>
     <img align="center" alt="kubernets" width="50" src=imagens_tecnologias/kubernetes.png>
-    <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
-    <img align="center" alt="linux" width="50" src=imagens_tecnologias/linux.png>
     <img align="center" alt="prometheus" width="50" src=imagens_tecnologias/prometheus.png>
     <img align="center" alt="ansible" width="50" src=imagens_tecnologias/ansible.png>
     <img align="center" alt="terraform" width="50" src=imagens_tecnologias/terraform.png>
     <img align="center" alt="azure" width="50" src=imagens_tecnologias/azure.png>
     <img align="center" alt="aws" width="50" src=imagens_tecnologias/aws1.png>
+    <img align="center" alt="docker" width="50" src=imagens_tecnologias/docker1.png>
+    <img align="center" alt="linux" width="50" src=imagens_tecnologias/linux.png>
     <img align="center" alt="gcp" width="50" src=imagens_tecnologias/GCP.png>
     <img align="center" alt="golang" width="50" src=imagens_tecnologias/golang.png>
     <img align="center" alt="python" width="50" src=imagens_tecnologias/python.png>
