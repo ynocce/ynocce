@@ -26,7 +26,7 @@
 ##
 
 <div align="center" style="display: inline_block"><br>
-    <img align="center" alt="AzDevOps" width="40" src=imagens_tecnologias/AzDevOps.png>
+    <img align="center" alt="AzDevOps" width="40" src=imagens_tecnologias/devops-process.png>
 </div>
 
 ##
