@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/ynocce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&title_color=ffffff00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&title_color=007a00"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynocce&layout=compact&langs_count=16&theme=blue-green"/>
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ynocce&theme=blue-green&mode=weekly" />
 </div>
