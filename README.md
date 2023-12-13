@@ -18,8 +18,7 @@
   <img align="center" alt="gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="azure" height="30" width="40" src=imagens_tecnologias/aws1.png
-">
-">
+
 </div>
 
 ##
