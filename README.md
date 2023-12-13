@@ -8,6 +8,8 @@
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ynocce&theme=vue-dark&mode=weekly" />
 </div>
 
+##
+
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="50" src=imagens_tecnologias/AzDevOps.png>
     <img align="center" alt="git" width="50" src=imagens_tecnologias/Git.png>
