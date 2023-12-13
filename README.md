@@ -1,4 +1,4 @@
-![image](https://github.com/ynocce/ynocce/assets/151590883/f0580b02-d99b-4e6c-9156-b36144d26c04)### Hi there 👋
+### Hi there 👋
 ### I'm Ygor and this is my projects repository
 
 <div align="center">
