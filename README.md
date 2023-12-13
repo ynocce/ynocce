@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynocce&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ynocce&theme=chartreuse-dark&mode=weekly" />
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github"/> )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -41,5 +40,3 @@
 
 
 ##
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1)](https://github.com/anuraghazra/Az-DevOps-Projeto-1)
