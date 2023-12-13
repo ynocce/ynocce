@@ -9,13 +9,18 @@
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="40" src=imagens_tecnologias/AzDevOps.png>
-    <img align="center" alt="azure" width="40" src=imagens_tecnologias/azure.png>
     <img align="center" alt="git" width="40" src=imagens_tecnologias/Git.png>
     <img align="center" alt="kubernets" width="40" src=imagens_tecnologias/kubernetes.png>
+    <img align="center" alt="docker" width="40" src=imagens_tecnologias/docker1.png>
     <img align="center" alt="linux" width="40" src=imagens_tecnologias/linux.png>
     <img align="center" alt="prometheus" width="40" src=imagens_tecnologias/prometheus.png>
     <img align="center" alt="ansible" width="40" src=imagens_tecnologias/ansible.png>
     <img align="center" alt="terraform" width="40" src=imagens_tecnologias/terraform.png>
+    <img align="center" alt="azure" width="40" src=imagens_tecnologias/azure.png>
+    <img align="center" alt="aws" width="40" src=imagens_tecnologias/aws1.png>
+    <img align="center" alt="gcp" width="40" src=imagens_tecnologias/GCP.png>
+    <img align="center" alt="golang" width="40" src=imagens_tecnologias/golang.png>
+    <img align="center" alt="python" width="40" src=imagens_tecnologias/python.png>
   
 </div>
 
