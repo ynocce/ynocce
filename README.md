@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/ynocce/ynocce/assets/151590883/f0580b02-d99b-4e6c-9156-b36144d26c04)### Hi there 👋
 ### I'm Ygor and this is my projects repository
 
 <div align="center">
@@ -17,7 +17,8 @@
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="aws" height="30" width="40" src="https://github.com/ynocce/ynocce/assets/151590883/511f06bb-db35-4cd6-a7e6-cd5f0790ed8d">
+">
 </div>
 
 ##
