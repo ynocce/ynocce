@@ -44,8 +44,8 @@
 
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
-    <a href = "https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=vue-dark"/></a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
+    <a href = "https://github.com/ynocce/portfolio-CI-CD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=vue-dark&description_lines_count=1"/></a>
+    <a href = "https://github.com/ynocce/Az-DevOps-Projeto-1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark&description_lines_count=1"/></a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
