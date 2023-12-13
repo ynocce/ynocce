@@ -11,7 +11,7 @@
     <img align="center" alt="AzDevOps" width="40" src=imagens_tecnologias/AzDevOps.png>
     <img align="center" alt="git" width="40" src=imagens_tecnologias/Git.png>
     <img align="center" alt="kubernets" width="40" src=imagens_tecnologias/kubernetes.png>
-    <img align="center" alt="docker" width="45" src=imagens_tecnologias/docker1.png>
+    <img align="center" alt="docker" width="55" src=imagens_tecnologias/docker1.png>
     <img align="center" alt="linux" width="40" src=imagens_tecnologias/linux.png>
     <img align="center" alt="prometheus" width="40" src=imagens_tecnologias/prometheus.png>
     <img align="center" alt="ansible" width="40" src=imagens_tecnologias/ansible.png>
