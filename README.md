@@ -8,16 +8,15 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="azure" width="40" src=imagens_tecnologias/aws1.png>
-  <img align="center" alt="terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-  <img align="center" alt="ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-  <img align="center" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+    <img align="center" alt="AzDevOps" width="40" src=imagens_tecnologias/AzDevOps.png>
+    <img align="center" alt="azure" width="40" src=imagens_tecnologias/azure.png>
+    <img align="center" alt="git" width="40" src=imagens_tecnologias/Git.png>
+    <img align="center" alt="kubernets" width="40" src=imagens_tecnologias/kubernetes.png>
+    <img align="center" alt="linux" width="40" src=imagens_tecnologias/linux.png>
+    <img align="center" alt="prometheus" width="40" src=imagens_tecnologias/prometheus.png>
+    <img align="center" alt="ansible" width="40" src=imagens_tecnologias/ansible.png>
+    <img align="center" alt="terraform" width="40" src=imagens_tecnologias/terraform.png>
+  
 </div>
 
 ##
