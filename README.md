@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/ynocce">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&mode=weekly"/>
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=chartreuse-dark&mode=weekly" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynocce&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
@@ -31,5 +31,6 @@
    <a href="https://www.linkedin.com/in/ygornocce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
    <a href = "mailto:ygorleonardo59@outlook.com"><img width= "150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
 </div>
-   
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynocce&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 ##
