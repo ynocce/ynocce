@@ -30,14 +30,15 @@
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="AzDevOps" width="650" src=imagens_tecnologias/devops-process.png>
-    <div align="center" style="display: inline_block">
+</div>
+
+<div align="center" style="display: inline_block">
   <a href = "mailto:ygorleonardo59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ygornocce/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:ygorleonardo59@outlook.com"><img width= "150" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?" target="_blank"></a>
 </div>
-</div>
 
-#
+##
 
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
