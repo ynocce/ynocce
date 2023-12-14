@@ -50,10 +50,13 @@
     </h1>
     <a href = "https://github.com/ynocce/portfolio-CI-CD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=vue-dark&description_lines_count=1"/></a>
     <a href = "https://github.com/ynocce/Az-DevOps-Projeto-1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark&description_lines_count=1"/></a>
+    #
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
+    #
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
+    #
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=vue-dark"/>
   
 </div>
