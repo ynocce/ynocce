@@ -44,7 +44,7 @@
 
 <div align="center" style="display: inline_block"><br>
     <h1>Meus Projetos!</h1>
-    <a href = "https://github.com/ynocce/portfolio-CI-CD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=vue-dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
+    <a href = "https://github.com/ynocce/portfolio-CI-CD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=portfolio-CI-CD&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
     <a href = "https://github.com/ynocce/Az-DevOps-Projeto-1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-1&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
     <a href = "https://github.com/ynocce/Az-DevOps-Projeto-2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-2&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
 </div>
