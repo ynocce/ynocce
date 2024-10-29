@@ -49,7 +49,7 @@
     <a href = "https://github.com/ynocce/Azure-Portal-Projeto-1"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Azure-Portal-Projeto-1&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/>
     <a href = "https://github.com/ynocce/Az-DevOps-Projeto-2"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-2&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/>
     <a href = "https://github.com/ynocce/Az-DevOps-SonarCloud"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-SonarCloud&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a>
-    <a href = "https://github.com/ynocce/Az-DevOps-Projeto-3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-3&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a></a>
+    <a href = "https://github.com/ynocce/DevOps-Studies/tree/main/Azure%20DevOps"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ynocce&repo=Az-DevOps-Projeto-3&theme=dark&description_lines_count=2&border_color=007a00&text_color=ffffff"/></a></a>
 </div>
 
 
